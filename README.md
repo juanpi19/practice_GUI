@@ -10,4 +10,6 @@ You find three different windows on this app.
 
 The design was made using the python library Tkinter.
 
-YOU CAN FIND THE PICTURES OF HOW THE APP LOOKS LIKE ON THE EXPENSETRACKER_PICTURES FOLDER
+-- Screenshots of how the app looks like can be found on the Expensetracker_pictures folder
+
+-- The source code can be found on practice_GUI.py
